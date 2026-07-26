@@ -53,4 +53,3 @@ This is my first frontend mini project created while learning web development. T
 ⭐ If you like this project, consider giving it a star!
 
 
-hello how are u
